@@ -204,6 +204,7 @@ article.active {
   100% { opacity: 1; }
 }
 
+
 .h2,
 .h3,
 .h5,
@@ -222,6 +223,7 @@ article.active {
   font-size: var(--fs-7);
   font-weight: var(--fw-500);
 }
+
 
 .article-title {
   position: relative;
@@ -321,7 +323,7 @@ main {
 }
 
 .info-content .name {
-  color: var(--white-2);
+  color: var(--onyx);
   font-size: var(--fs-3);
   font-weight: var(--fw-500);
   letter-spacing: -0.25px;
